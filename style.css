@@ -1,0 +1,99 @@
+body{
+    background-color: slateblue;
+}
+.ca{
+    color: black;
+    background-color: black;
+    border: 2px solid rgb(0, 119, 255);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+.ca:hover{
+    background-color: white;
+    
+}
+.home{
+    color: orange;
+    background-color: rgb(134, 11, 235);
+    border: 2px solid rgb(111, 0, 255);
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+}
+.home:hover{
+    color: white;
+    background-color: black;
+}
+.box1{
+    color: orange;
+    background-color: black;
+    border: 2px solid red;
+    height: 10px;
+    width: 120px;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: px;
+    margin-bottom: 20px;
+    
+}
+.box2{
+    color: orange;
+    background-color: black;
+    border: 2px solid red;
+    height: -10px;
+    width: 120px;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    margin-top: 20px
+}
+.ba{
+    color: aqua;
+    background-color: cornflowerblue;
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 30px;
+    display: flex;
+}
+
+.a{
+    color: rgba(85, 248, 9, 0.664);
+    background-color: black;
+    border: solid 2px yellowgreen;
+    height: -10px;
+    width: 280px;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 500px;
+    margin-top: 50px;
+    text-align: center;
+}
+.mo{
+    color: black;
+    background-color: chartreuse;
+    border: 2px solid red;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: 10px;
+}
+.da{
+    display: flex;
+    flex-wrap: wrap;
+    color: aqua;
+    background-color: cornflowerblue;
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    height: 500px;
+    width: auto;
+}
+.box3{
+    margin: 30px;
+}
+.box4{
+    margin: 30px;
+}
