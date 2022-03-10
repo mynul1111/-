@@ -85,9 +85,6 @@ body{
 .da{
     display: flex;
     flex-wrap: wrap;
-    color: aqua;
-    background-color: cornflowerblue;
-    border: 2px solid red;
     text-align: center;
     padding: 15px;
     margin: 10px;
